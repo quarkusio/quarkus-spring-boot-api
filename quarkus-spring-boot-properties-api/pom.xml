@@ -3,14 +3,14 @@
     <parent>
         <artifactId>quarkus-spring-boot-api</artifactId>
         <groupId>io.quarkus</groupId>
-        <version>3.2</version>
+        <version>3.2.SP1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.quarkus</groupId>
     <artifactId>quarkus-spring-boot-properties-api</artifactId>
     <description>The minimum dependencies to reduce the footprint of Quarkus applications using the Spring Boot Properties classes</description>
-    <version>3.2</version>
+    <version>3.2.SP1-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
