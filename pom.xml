@@ -4,7 +4,7 @@
 
     <groupId>io.quarkus</groupId>
     <artifactId>quarkus-spring-boot-api</artifactId>
-    <version>3.2.SP1-SNAPSHOT</version>
+    <version>3.4</version>
 
     <name>Spring Boot dependencies for Quarkus</name>
     <description>The minimum dependencies to reduce the footprint of Quarkus applications using the Spring Boot features</description>
@@ -30,7 +30,7 @@
         <url>https://github.com/quarkusio/quarkus-spring-boot-api</url>
         <connection>scm:git:git@github.com:quarkusio/quarkus-spring-boot-api.git</connection>
         <developerConnection>scm:git:git@github.com:quarkusio/quarkus-spring-boot-api.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>3.4</tag>
     </scm>
 
     <properties>
