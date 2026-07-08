@@ -11,6 +11,7 @@
 
     <groupId>io.quarkus</groupId>
     <artifactId>quarkus-spring-boot-orm-api</artifactId>
+    <name>Quarkus - Spring Boot ORM API</name>
     <description>The minimum dependencies to reduce the footprint of Quarkus applications using the Spring Boot ORM classes</description>
 
     <dependencies>

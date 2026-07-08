@@ -9,6 +9,7 @@
 
     <groupId>io.quarkus</groupId>
     <artifactId>quarkus-spring-boot-properties-api</artifactId>
+    <name>Quarkus - Spring Boot Properties API</name>
     <description>The minimum dependencies to reduce the footprint of Quarkus applications using the Spring Boot Properties classes</description>
 
     <dependencies>
