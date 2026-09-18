@@ -45,6 +45,7 @@
                                     <includes>
                                         <!-- Used in Quarkus -->
                                         <include>org/springframework/boot/context/properties/ConfigurationProperties**</include>
+                                        <include>org/springframework/boot/context/properties/bind/Name**</include>
                                     </includes>
                                 </filter>
                             </filters>
